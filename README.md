@@ -1,6 +1,5 @@
 # Used Car Price Prediction
 
-![Project Logo](images/car_logo.png)
 
 ## Project Overview
 
