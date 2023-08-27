@@ -1,5 +1,5 @@
 # Used Car Price Prediction
-[Notebook](https://github.com/JoaoCA98/Used-Cars-Price-Prediction/blob/main/Capstone_Project_Joao_Ascensao.ipynb) [Dataset](https://github.com/JoaoCA98/Used-Cars-Price-Prediction/blob/main/used_cars.csv)
+[Notebook](https://github.com/JoaoCA98/Used-Cars-Price-Prediction/blob/main/Capstone_Project_Joao_Ascensao.ipynb) | [Dataset](https://github.com/JoaoCA98/Used-Cars-Price-Prediction/blob/main/used_cars.csv)
 ## Project Overview
 
 This project aims to predict used car prices in the Indian market using machine learning techniques. The pre-owned car market has been rapidly growing, and accurately predicting car prices can provide valuable insights for both buyers and sellers. In this project, we analyze the Cars4U dataset to gain insights into the factors influencing car prices and develop a predictive model for price estimation.
